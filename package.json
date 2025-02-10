@@ -17,8 +17,6 @@
   "scripts": {
     "start": "react-scripts start",
     "start-legacy": "NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
-    "start-legacy-dev": "NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
-    "start-legacy-prod": "REACT_APP_API_URL=\"https://kernel528-welovemovies.onrender.com\" NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
     "build": "react-scripts build",
     "build-legacy": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
     "test": "react-scripts test",
