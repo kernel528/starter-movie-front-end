@@ -1,4 +1,4 @@
-[![Latest Version](https://img.shields.io/github/v/tag/kernel528/starter-movie-front-end)](https://github.com/kernel528/starter-movie-front-end/releases/tag/1.0.2)
+[![Latest Version](https://img.shields.io/github/v/tag/kernel528/starter-movie-front-end)](https://github.com/kernel528/starter-movie-front-end/releases/latest)
 
 # WeLoveMovies Frontend Application
 
